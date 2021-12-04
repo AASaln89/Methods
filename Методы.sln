@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Метод триэнгл", "Методы\Метод триэнгл.csproj", "{60DEA2EE-B514-4E0B-80B1-108F15E474CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Метод куб", "Метод куб\Метод куб.csproj", "{68F4BE88-0C2E-406F-BD35-E0B25EF1E7B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60DEA2EE-B514-4E0B-80B1-108F15E474CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60DEA2EE-B514-4E0B-80B1-108F15E474CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60DEA2EE-B514-4E0B-80B1-108F15E474CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60DEA2EE-B514-4E0B-80B1-108F15E474CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F4BE88-0C2E-406F-BD35-E0B25EF1E7B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F4BE88-0C2E-406F-BD35-E0B25EF1E7B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F4BE88-0C2E-406F-BD35-E0B25EF1E7B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F4BE88-0C2E-406F-BD35-E0B25EF1E7B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7584F0E-8CA8-44FA-A1DD-C30AEA1723C7}
+	EndGlobalSection
+EndGlobal
